@@ -1,4 +1,4 @@
-# Healthcare Platform - Local Development
+# Healthcare Platform
 
 A modern healthcare platform built with Encore.ts backend and React frontend, featuring doctor search and listing functionality. This project is designed for local development only and does not require authentication or deployment setup.
 
